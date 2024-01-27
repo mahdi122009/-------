@@ -5,20 +5,43 @@
 
 .fon {
     background-image: url(../img/ret.jpg);
-    padding-top: 70px;
+
+    padding-top: px;
     width: 1921px;
     height: 900px;
     flex-shrink: 0;
 
 }
 
-.wew {
+.ket {
+  
+  width: 1921px;
+  height: 900px;
+}
+
+.strelka {
+width: 190px;
+    position: absolute;
+    top: 78%;
+    padding-left: 953px;
+    transform: translateY(-50%);
+
+    background-color: transparent;
+    border: none;
+    font-size: 24px;
+    color: white;
+}
+
+.slider {
     width: 1910.095px;
     height: 200px;
     flex-shrink: 0px;
     text-align: center;
     justify-content: center;
+    
 }
+
+
 
 .tyt {
 margin: 0 0 0px 0;
@@ -56,6 +79,10 @@ padding-top: 110px;
 }
 
 
+.zxz {
+padding-left: 880px;
+padding-top: 140px;
+}
 
 .ded{
     padding-left: 198px;
@@ -65,8 +92,8 @@ padding-top: 110px;
 
 .yslygi {
 
-    color: var(--div, #868585);
-    text-align: left;
+    color:  #868585;
+   
     font-family: var(--h-1-font-family, "NotoSans-Bold", sans-serif);
     font-size: var(--h-1-font-size, 24px);
     font-weight: var(--h-1-font-weight, 700);
@@ -78,8 +105,8 @@ padding-top: 110px;
 
 .pro {
     
-    color: var(--div, #303030);
-    text-align: left;
+    color:  #303030;
+   
     font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
     font-size: var(--h-2-font-size, 18px);
     font-weight: var(--h-2-font-weight, 700);
@@ -90,8 +117,8 @@ padding-top: 110px;
 
 .qeq {
 
-        color: var(--div, #303030);
-        text-align: left;
+        color:  #303030;
+       
         font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
         font-size: var(--text-14-px-font-size, 14px);
         font-weight: var(--text-14-px-font-weight, 400);
@@ -102,8 +129,8 @@ padding-top: 110px;
 }
 
 .tit {
-    color: var(--div, #303030);
-    text-align: left;
+    color:  #303030;
+   
     font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
     font-size: var(--h-2-font-size, 18px);
     font-weight: var(--h-2-font-weight, 700);
@@ -114,8 +141,8 @@ padding-top: 110px;
 }
 
 .cec {
-    color: var(--div, #303030);
-    text-align: left;
+    color:  #303030;
+   
     font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
     font-size: var(--text-14-px-font-size, 14px);
     font-weight: var(--text-14-px-font-weight, 400);
@@ -124,8 +151,8 @@ padding-top: 110px;
 }
 
 .zaz {
-    color: var(--div, #303030);
-    text-align: left;
+    color: #303030;
+   
     font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
     font-size: var(--h-2-font-size, 18px);
     font-weight: var(--h-2-font-weight, 700);
@@ -135,8 +162,8 @@ padding-top: 110px;
 }
 
 .sas {
-    color: var(--div, #303030);
-    text-align: left;
+    color: #303030;
+   
     font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
     font-size: var(--text-14-px-font-size, 14px);
     font-weight: var(--text-14-px-font-weight, 400);
@@ -145,8 +172,8 @@ padding-top: 110px;
 }
 
 .kik {
-    color: var(--div, #303030);
-    text-align: left;
+    color:  #303030;
+   
     font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
     font-size: var(--h-2-font-size, 18px);
     font-weight: var(--h-2-font-weight, 700);
@@ -156,8 +183,8 @@ padding-top: 110px;
 }
 
 .mim {
-    color: var(--div, #303030);
-    text-align: left;
+    color: #303030;
+   
     font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
     font-size: var(--text-14-px-font-size, 14px);
     font-weight: var(--text-14-px-font-weight, 400);
@@ -179,20 +206,14 @@ padding-left: 0px;
 }
 
 .ret {
-    color: var(--div, #868585);
-    text-align: left;
+    color:  #868585;
+   
     font-family: var(--h-1-font-family, "NotoSans-Bold", sans-serif);
     font-size: var(--h-1-font-size, 24px);
     font-weight: var(--h-1-font-weight, 700);
     position: relative;
     width: 217px;
 }
-
-
-
-
-
-
 
 
 .tab-wrap {
@@ -283,7 +304,7 @@ label {
   white-space: nowrap;
   padding: 13px;
   box-sizing: border-box;
-  color: var(--div, #868585);
+  color:  #868585;
 
   transition: all 0.2s ease;
   font-family: Roboto, sans-serif;
@@ -308,8 +329,8 @@ label {
 }
 
 .jyj {
-    color: var(--div, #303030);
-    text-align: left;
+    color:  #303030;
+   
     font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
     font-size: var(--text-14-px-font-size, 14px);
     font-weight: var(--text-14-px-font-weight, 400);
@@ -341,7 +362,7 @@ label {
 }
 
  .gta {
-  color: var(--div, #303030);
+  color:  #303030;
   font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
   font-size: var(--h-2-font-size, 18px);
   font-weight: var(--h-2-font-weight, 700);
@@ -353,7 +374,7 @@ label {
  }
 
  .gta1 {
-  color: var(--div, #303030);
+  color: #303030;
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -364,8 +385,8 @@ label {
  }
 
  .gta2 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
   font-size: var(--h-2-font-size, 18px);
   font-weight: var(--h-2-font-weight, 700);
@@ -375,8 +396,8 @@ label {
  }
 
  .gta3 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -387,8 +408,8 @@ label {
 
  .gta4 {
 
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
   font-size: var(--h-2-font-size, 18px);
   font-weight: var(--h-2-font-weight, 700);
@@ -401,8 +422,8 @@ label {
 }
 
 .gta5 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -414,8 +435,8 @@ label {
 }
 
 .gta6 {
-  color: var(--div, #303030);
-  text-align: left;
+  color: #303030;
+ 
   font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
   font-size: var(--h-2-font-size, 18px);
   font-weight: var(--h-2-font-weight, 700);
@@ -427,8 +448,8 @@ label {
 }
 
 .gta7 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -446,8 +467,8 @@ label {
 
 
 .gta9{
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
   font-size: var(--h-2-font-size, 18px);
   font-weight: var(--h-2-font-weight, 700);
@@ -466,7 +487,7 @@ label {
 }
 
 .gta8 {
-  color: var(--div, #ffffff);
+  color:  #ffffff;
   text-align: center;
   font-family: var(--discriptor-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--discriptor-font-size, 42px);
@@ -480,8 +501,8 @@ label {
 }
 
 .gta10 {
-  color: var(--div, #868585);
-  text-align: left;
+  color:  #868585;
+ 
   font-family: var(--h-1-font-family, "NotoSans-Bold", sans-serif);
   font-size: var(--h-1-font-size, 24px);
   font-weight: var(--h-1-font-weight, 700);
@@ -497,8 +518,8 @@ label {
 }
 
 .gta11 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
   font-size: var(--h-2-font-size, 18px);
   font-weight: var(--h-2-font-weight, 700);
@@ -509,8 +530,8 @@ label {
 }
 
 .gta12 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -522,8 +543,8 @@ label {
 }
 
 .gta13 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -534,8 +555,8 @@ label {
 }
 
 .gta14 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -545,8 +566,8 @@ label {
   bottom: 320px;
 }
 .gta15 {
-  color: var(--div, #303030);
-  text-align: left;
+  color:  #303030;
+ 
   font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
   font-size: var(--text-14-px-font-size, 14px);
   font-weight: var(--text-14-px-font-weight, 400);
@@ -556,12 +577,158 @@ label {
   bottom: 310px;
 }
 
-.ellipse-1 {
-border-radius: 50%;
-border-style: solid;
-border-color: var(--div, #303030);
-border-width: 2px;
-width: 100px;
-height: 100px;
-position: relative;
+.gtg {
+  padding-right: 100px;
+  padding-top: 90px ;
+}
+
+.sds {
+  width: 102px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+  padding-left: 290px;
+  padding-top: 30px;
+ 
+}
+
+
+.klk {
+  padding-left: 200px;
+}
+
+.gta20 {
+  color:  #868585;
+  font-family: var(--h-1-font-family, "NotoSans-Bold", sans-serif);
+  font-size: var(--h-1-font-size, 24px);
+  font-weight: var(--h-1-font-weight, 700);
+  position: relative;
+  width: 370px;
+  padding-bottom: 10px;
+}
+
+._01 {
+  color: #868585;
+ 
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  top: 60px;
+}
+
+.gta21 {
+  color:  #303030;
+ 
+  font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
+  font-size: var(--h-2-font-size, 18px);
+  font-weight: var(--h-2-font-weight, 700);
+  position: relative;
+  top: 70px;
+}
+
+.gta22 {
+  color: #303030;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  width: 510px;
+  top: 80px;
+}
+
+._02 {
+  color:  #868585;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  top: 95px;
+}
+
+.gta23 {
+  color:  #303030;
+  font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
+  font-size: var(--h-2-font-size, 18px);
+  font-weight: var(--h-2-font-weight, 700);
+  position: relative;
+  top: 105px;
+}
+
+.gta24 {
+  color: #303030;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  width: 510px;
+  top: 110px;
+}
+
+._03 {
+  color: #868585;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  top: 125px;
+}
+
+.gta25 {
+  color:  #303030;
+  font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
+  font-size: var(--h-2-font-size, 18px);
+  font-weight: var(--h-2-font-weight, 700);
+  position: relative;
+  top: 130px;
+}
+
+.gta26 {
+  color:  #303030;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  width: 510px;
+  top:135px ;
+}
+
+._04 {
+  color:  #868585;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  width: 18px;
+  height: 15px;
+  top: 145px;
+}
+
+.gta27 {
+  color:  #303030;
+  font-family: var(--h-2-font-family, "NotoSans-Bold", sans-serif);
+  font-size: var(--h-2-font-size, 18px);
+  font-weight: var(--h-2-font-weight, 700);
+  position: relative;
+  top: 155px;
+}
+
+.gta28 {
+  color:  #303030;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  width: 510px;
+  top: 160px;
+}
+
+._05 {
+  color:  #868585;
+  font-family: var(--text-14-px-font-family, "NotoSans-Regular", sans-serif);
+  font-size: var(--text-14-px-font-size, 14px);
+  font-weight: var(--text-14-px-font-weight, 400);
+  position: relative;
+  width: 18px;
+  height: 15px;
 }
